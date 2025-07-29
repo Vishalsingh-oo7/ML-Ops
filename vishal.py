@@ -16,3 +16,8 @@ def is_prime(n):
     return True
 
 print(is_prime(29))  # True
+
+
+nums = [12, 5, 89, 22, 65]
+max_num = max(nums)
+print("Largest Number ever:", max_num)
