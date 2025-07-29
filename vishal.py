@@ -4,6 +4,9 @@ reversed_text = text[::-1]
 print("Reversed String:", reversed_text)
 
 
+
+# This is the second code
+
 def is_prime(n):
     if n <= 1:
         return False
