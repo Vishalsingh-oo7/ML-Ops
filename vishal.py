@@ -15,7 +15,7 @@ def is_prime(n):
             return False
     return True
 
-print(is_prime(29))  # True
+print(is_prime(298989898))  # True
 
 
 nums = [12, 5, 89, 22, 65]
