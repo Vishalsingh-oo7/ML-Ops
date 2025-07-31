@@ -1,11 +1,4 @@
-# Reversing a string using slicing
-text = "PowerBI"
-reversed_text = text[::-1]
-print("Reversed String:", reversed_text)
-
-
-
-# This is the second code
+# This is the code
 
 def is_prime(n):
     if n <= 1:
@@ -16,7 +9,6 @@ def is_prime(n):
     return True
 
 print(is_prime(298989898))  # True
-
 
 nums = [12, 5, 89, 22, 65]
 max_num = max(nums)
